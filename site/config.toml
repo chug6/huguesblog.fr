@@ -2,14 +2,14 @@
 baseurl = "/"
 languageCode = "fr"
 title = "Hugues Blog"
-theme = "hugo-theme-cactus-plus"
+theme = "hugo-theme-cactus-plus-master"
 googleAnalytics = "your_google_analytics_id"
 # Set the value to true if your site include CJK (Chinese, Japanese, and Korean languages) characters
 hasCJKLanguage = false
 
 [params]
 	author = "Hugues"
-	description = "Sur le chemin du retour"
+	description = "Blog"
 	bio = "Sur le chemin du retour"
 
 	twitter = "chug"
@@ -28,9 +28,6 @@ hasCJKLanguage = false
 
 
 	enableGoogleAnalytics = true
-	# enableBaiduAnalytics = false
-	# Set the value to your baidu analysis code if you want to use baidu analytics
-	# baiduAnalytics = 'your_baidu_analysis_code'
 
 	enableTwitterCard = false
 	# The url for twitter card image, default is avatar.png in static/images directory

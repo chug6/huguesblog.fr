@@ -6,7 +6,6 @@ draft: false
 tags: ["Jung"]
 prev: /
 next: /posts/connaitre
-
 ---
 
 > "Comprendre une chose est un pont et une possibilité de revenir sur le chemin...par contre, expliquer une chose est un acte arbitraire et parfois même un assassinat."
