@@ -60,8 +60,8 @@ hasCJKLanguage = false
 	share = ""
 
 	# 404 page
-	title404 = "contenu non trouvée"
-	subtitle404 = "le contenu que vous recherchez ne semble pas exister"
+	title404 = "Non trouvée"
+	subtitle404 = "Le contenu que vous recherchez ne semble pas exister."
 
 	# Choose a font for the social icons in the footer. Either "mono-social" or "font-awesome"
 	iconFont = "font-awesome"
