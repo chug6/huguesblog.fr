@@ -3,9 +3,7 @@ baseurl = "/"
 languageCode = "fr"
 title = "Hugues Blog"
 theme = "hugo-theme-cactus-plus-master"
-googleAnalytics = "your_google_analytics_id"
-# Set the value to true if your site include CJK (Chinese, Japanese, and Korean languages) characters
-hasCJKLanguage = false
+googleAnalytics = "UA-116046902-1"
 
 [params]
 	author = "Hugues"
@@ -19,7 +17,7 @@ hasCJKLanguage = false
 	enableToc = true
 
 	enableDisqus = true
-	disqusShortname = "your_disqus_short_name"
+	disqusShortname = "huguesblog"
 
 
 	enableSummary = true

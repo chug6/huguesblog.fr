@@ -1,7 +1,7 @@
 ---
 title: "logbook du blog sous Hugo"
 date: 2018-03-18
-lastmod: 2018-03-18
+lastmod: 2018-03-19
 draft: true
 hidden: true
 
@@ -11,28 +11,43 @@ hidden: true
 
 Pense bête et logbook
 
-## Todo
+## Todo List
 
 ### config site
-- trouver le probleme de la page 404 qui n'est pas appelle
 - date a changer en francais dans la toc et l'entete du post
 - tweet du post et share qui ne sont pas bons dans chaque post
-- config google-analytics
-- config disqus
+- tester config disqus
+- dans post: comment faire lien avec post précédent et suivant (lie au theme)
 - une fois migration faites
 	- config changer baseurl dans config
 	- changer le [nom de domaine](https://www.netlify.com/docs/custom-domains/)
+- clean-up dans repo des readme etc
+- tester google-analytics
+
 - comment faire mise a jour de victor-hugo (pas cloner, mais du coup download and copie/paste contenu du site ? comment tester compatibilite theme, et contenu?)
 - regarder comment checker [update d'un submodule](https://blog.github.com/2016-02-01-working-with-submodules/) ne va pas faire foirer le site - comment tester une nouvelle version , avant mise en prod du nouveau theme?
-- clean-up dans repo des readme etc
 
-### migration site
+#### Done
+- trouver le probleme de la page 404 qui n'est pas appelle dans le theme => resolu sans action, une fois publié sur netlify
+-  photo centrer, resizer => en fait photo semble s'adapter, responsive au format (mobile, pc size)
+
+
+### Migration site
+
+#### Todo
+- post retour-connaissance
+- post centre-substance
+- post corps-esprit
+- post regime1
+- post regime2
+- post mimetisme
+- post bafore (a ne pas transferer ?)
+- post mimetisme-fusion
+
+#### Done
+- a propos
+- post Intention
 - post Connaissance
-	- photo center et resizer
-	- add video
-	- add lien avec post précédent et suivant
-- post ...x...
-
 
 ### References 
 
@@ -41,6 +56,7 @@ Pense bête et logbook
 - Desciption des variables et formats du [front matter](https://gohugo.io/content-management/front-matter/), cad entete/metadata des posts
 
 - Petit [guide de git](http://rogerdudler.github.io/git-guide/index.fr.html)
+	- Cmd dans folder local huguesblog.fr
 	- Vous pouvez proposer un changement (l'ajouter à l'Index) en exécutant les commandes
 		> git add <filename>
 		> git add *
@@ -102,5 +118,9 @@ suivi les instructions d'[install victor Hugo et Netlify](https://www.christophe
 - [Netlify config](https://app.netlify.com/account/sites)
 	- probleme initial de production en raison du submodule du theme non gere (cf plus haut)
 	- au final, fait download manuel du theme et rajouter dans le dossier theme a la main, avant de le rajouter au repo => netlify passe (envoyer issue a l'auteur)
+- ouverture d'un compte [google analytics](https://analytics.google.com) sur le site huguesblog.fr
+- ouverture d'un compte disques avec compte google pour website name: huguesblog.disqus le site: https://laughing-swartz-3b2f6e.netlify.com/
+
+
 
 
