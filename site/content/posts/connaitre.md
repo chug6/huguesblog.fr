@@ -23,6 +23,6 @@ Nous semblons vouloir détruire, petit à petit toute forme de connaissance, tou
 Sans comprendre que c'est ici, maintenant, à chaque instant, par notre regard que cela commence. Car nous ne pouvons comprendre, ni prendre au sérieux, ces simples mots ***"c'est la beauté qui sauvera le monde"***.
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HyNinbbzGuE" frameborder="0" allowfullscreen class="center"></iframe> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HyNinbbzGuE" frameborder="0" allowfullscreen align="middle"></iframe> 
 
 *Pierre Rhabi: y a t'il une vie avant la mort?*

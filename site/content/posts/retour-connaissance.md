@@ -1,16 +1,17 @@
 ---
 title: "Retour vers la Connaissance"
-date: 2018-04-19T20:28:29+01:00
-draft: true
+date: 2015-04-19T20:28:29
+draft: false
 tags: ["Bige", "Grothendieck", "Fondamentaux"]
 description: quels sont les moyens d'accès à la connaissance
 
 ---
 
-# Quels sont les moyens d'accéder à la connaissance
-
-La manière la plus directe pour avoir une connaissance globale et synthétique, pour une question donnée, réside dans la capacité de placer sa conscience et son corps *au centre*, et *"de voir ce qui est là"*. Ce chemin vers le centre n'est jamais un état final, un savoir établi une fois pour toutes, mais un processus d'incarnation. Un chemin de conscience, d’éveil à soi et à ce qui est. Un chemin qui suit le désir, cette flèche qui nous guide et nous y pousse, nous anime depuis toujours.
+La manière la plus directe pour avoir une connaissance globale et synthétique, pour une question donnée, réside dans la capacité de placer sa conscience et son corps *au centre*, et *"de voir ce qui est là"*. 
 <!--more-->
+
+Ce chemin vers le centre n'est jamais un état final, un savoir établi une fois pour toutes, mais un processus d'incarnation. Un chemin de conscience, d’éveil à soi et à ce qui est. Un chemin qui suit le désir, cette flèche qui nous guide et nous y pousse, nous anime depuis toujours.
+
 
 Se tenir au centre, est simple à dire et à faire quand on y est, c'est même enfantin. C'est là que réside la principale difficulté pour un adulte.
 
@@ -24,7 +25,8 @@ L'autre approche, est de partir de "l'extérieur", c'est à dire d'aborder un su
 
 Luc Bigé exprime très clairement et simplement, dans la vidéo qui suit, les 4 sources d’accès à la connaissance de notre réalité.
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/Lajkf2UvS-I" frameborder="0" allowfullscreen class="aligncenter"></iframe> 
+<iframe src="https://www.youtube.com/embed/Lajkf2UvS-I" width="420" height="315" align="middle" allowfullscreen></iframe> 
+
 J'ai repris son découpage, pour le rendre plus lisible.
 
 ![connaissance][1]
