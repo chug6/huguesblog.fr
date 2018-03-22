@@ -3,13 +3,14 @@ title: "Centre et Substance"
 date: 2015-04-22
 draft: false
 tags: ["Lao-Tseu", "Spinoza", "Zhuangzi", "Fondamentaux"]
-description: 
+description: centre et substance
 
 ---
 
-[![Peinture de Bang Hai Ja](/img/le-centre.jpg)](http://www.banghaija.com/kr/ht_gallery/list.html?ht_div=kr_paint title="Peinture de Bang Hai Ja")
+![Peinture de Bang Hai Ja](/img/le-centre.jpg)
 
 Comme évoqué dans l'article précédent, le plus simple et direct moyen de réponse face à un événement dans notre vie, est de placer sa conscience et son corps au centre pour le laisser agir.
+<!--more-->
 
 C'est par la connaissance (*'n'être avec'*) que l'on va pouvoir comprendre (*'prendre avec soi'*) la question qui nous est posé par notre environnement, et agir correctement (*répondre*) en s'insérant par cet acte dans le monde en continuelle création (*transformation*).
 
