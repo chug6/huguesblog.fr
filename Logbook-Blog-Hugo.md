@@ -16,8 +16,7 @@ Pense bête et logbook
 ### config site
 - date a changer en francais dans la toc et l'entete du post
 - tweet du post et share qui ne sont pas bons dans chaque post
-- tester config disqus
-- dans post: comment faire lien avec post précédent et suivant (lie au theme)
+- dans post: comment faire lien avec post précédent et suivant (lie au theme?)
 - une fois migration faites
 	- config changer baseurl dans config
 	- changer le [nom de domaine](https://www.netlify.com/docs/custom-domains/)
@@ -30,12 +29,12 @@ Pense bête et logbook
 #### Done
 - trouver le probleme de la page 404 qui n'est pas appelle dans le theme => resolu sans action, une fois publié sur netlify
 -  photo centrer, resizer => en fait photo semble s'adapter, responsive au format (mobile, pc size)
+-  tester config disqus semble ok
 
 
 ### Migration site
 
 #### Todo
-- post retour-connaissance
 - post centre-substance
 - post corps-esprit
 - post regime1
@@ -48,8 +47,11 @@ Pense bête et logbook
 - a propos
 - post Intention
 - post Connaissance
-
+- post post retour-connaissance
+- 
 ### References 
+
+- [Disqus admin](https://disqus.com/admin/)
 
 - Quick [reference de markdown](https://en.support.wordpress.com/markdown-quick-reference/)
 
@@ -76,6 +78,8 @@ Pense bête et logbook
 		> npm run build
 	- To get a preview of posts or articles not yet published, run:
 		> npm run build-preview
+	- publish a new post
+		> hugo new posts/premier.md
 
 
 #### Pour aller plus loin

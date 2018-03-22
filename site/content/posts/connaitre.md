@@ -2,12 +2,12 @@
 title: "Connaître"
 date: 2015-04-18
 draft: false
-tags: ["Dostoievski", "Rhabi"]
+tags: ["Dostoievski", "Rhabi", "Fondamentaux"]
 description: qu'est ce que connaître
 
 ---
 
-[![N'être de Isabelle de Bentzmann-Laduguie](/img/n-etre.jpeg)](https://sites.google.com/site/isabellepeintures/)
+[![N'être de Isabelle de Bentzmann-Laduguie](/img/n-etre.jpeg)](https://sites.google.com/site/isabellepeintures/ title="N'être de Isabelle de Bentzmann-Laduguie")
 
 **Connaitre c'est '*n'être avec*'**. C'est un nouvelle naissance, et une mort à ce que l'on croyait déjà savoir. C'est comprendre, c'est *'prendre avec soi*'.
 <!--more-->
