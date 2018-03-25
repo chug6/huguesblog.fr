@@ -5,10 +5,14 @@ title = "Hugues Blog"
 theme = "hugo-theme-cactus-plus-master"
 googleAnalytics = "UA-116046902-1"
 
+# ignore files (or folder) during build (based on path pattern matching)
+ignoreFiles = [ "raw-material" ]
+
 [params]
 	author = "Hugues"
 	description = "Blog"
 	bio = "Sur le chemin du retour"
+
 
 	twitter = "chug"
 	# facebook = "your_facebook_id"

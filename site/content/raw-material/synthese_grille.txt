@@ -1,0 +1,80 @@
+Synthese 
+
+# grille d'organisation
+
+faire une grille de lecture qui permette de faire la synthese. 
+
+* Vertical (transcendance, ce qui tranche/decide): 
+- Bige (matiere): substance - sens/information 
+- Todd (cond. environnement/systeme/politique): liberte - autorite 
+- Jung (psyche/ce qui anime): sentiment - pensee
+
+* Horizontal (immanescence/ ce qui relie): 
+- Bige (relation): partie/individu - relation
+- Todd (relation): inegalite(individu) - egalite(lien) 
+- Jung (relation): sensation - intuition
+
+Cette representation dans l'espace et le temps, est anime en son centre par une dimension premiere, l'energie (le libido pour Jung) (chez todd on retrouve l'interdit de la sexualite endogamie, enxogamie pour l'orientation sexuelle)...c'est dans cette dimension qui anime cet represenation dans l'espace et le temps, c'est le desir qui est le loin-proche et qui est au centre et unifie l'ensemble de cette representation. Il est alors impossible de dissocier la transcendance de l'immanesce, ou l'individuel ou le collectif...si l'energie se porte sur un cote, ce n'est jamais en oubliant l'autre.
+
+[Voir si On peut le representer avec un troisieme axe, qui introduit la profondeur et la 3D (Pour representer en 3 dimension dans l'espace https://www.youtube.com/watch?feature=player_detailpage&v=SogolRUl5A8#t=1572 Tableau des 8 trigrammes Chinois, l'union des 6 points cardinaux dans l'espace et le temps
+Haut:yang - bas:ying
+gauche:yang - droite:ying
+devant:yang - arriere:ying
+http://sys.theme.free.fr/2_tradition.html]
+
+Si l'on reste avec deux dimension. cette roue sera anime par la spirale, qui va introduire cette dynamique, et qui fait qu'elle va basculer d'un cote et puis l'autre de chacun des axes, et recommencer encore...comme une roue qui tourne sur une route, a la fois temps lineaire (si l'on regarde la trace, comme en Occident), ou temps circulaire (si l'on regarde la roue, comme en Orient). 
+Le temps importe peu, existe t'il vraiment ? Ce qui existe, c'est cette "fleche" ce qui instaure le mouvement (et la perception du temps et de l'espace).
+ 
+On retrouve issu un principe decrit par la thermodynamique dans un systeme ouvert, et les memes effets de dissipation de l'energie....et la spirale qui en decoule lorsque l'on observe ces traces.
+
+L'ambition est de me faire cette synthese. Tenter d'explorer chaque roue de mon cadran, a partir du centre...et en etudier
+rajouter ma vue en onion (qui doit surement correspondre a des 1/4 de ces carres)
+
+TODO: faire une synthese entre les types de Jung l6 types et les 15 types de Todd (ajouter l'aspect statistique pour verification experimentale)
+
+# Source 
+
+## Philosophie
+Depuis 20 siecles, deux regards porte sur le monde s'affrontent, le "dualisme" (dit aussi "idealisme" ou "realisme") et le "monisme"  ("materialisme"). Le courant dominant, le plus visible, etant "l'idealisme" qui a fortement influence la pensee occidentale. 
+- "idealiste"/transcendance Parmenide et l'image de "la sphère" comme perception du monde (Platon du monde des idées, kant, Descartes, structuraliste.... Dualisme, Realisme, intelligible... Forme étatique  
+- "materialisme"/immanence heraclite et l'image du fleuve, "tout coule". La dialectique...Marx (l'état doit être dépassé), Nietschze, Spinoza, Deleuze... Nominalisme, sensible... Forme libertaire
+
+Comme Onfray le pense on constate que pour beaucoup ces "2 traditions sont irréductibles, et qu'il faut choisir son camp" on est soit de l'un, soit de l'autre... 
+
+## Voies connaissance - bige
+https://www.youtube.com/watch?v=Lajkf2UvS-I
+vertical: substance - sens/information 
+horizontal: partie/individu - relation
+Il y a en fait 4 voies de connaissances possibles, dans ces cadrans
+- scientifique (entre partie et substance) (analyser les parties) science cartesienne "classique" (voie connu/visible objective et institutionalise)
+- systemique(substance et relation) par ex E. Morin (ou Todd) "je suis faconne par mon environnement") (voie connu/visible et institutionalise)
+- symbolisme (relation et sens) (plus appel vers l'invisible, rejete par rationel comme "pensee magique")
+- chamanique (sens transforme la partie) connaissance par l'experience (plus invisible, rejete par rationel comme "pensee magique" )
+Pour connaissance globale, chaque sujet d'etudes/these devrait etre etudie dans ces 4 direction pour faire la synthese que ces 4 axes.
+
+## Modele de Jung
+http://www.16-types.fr/16types.html
+http://www.16personalities.com/personality-types
+
+pensee/sentiment
+intuition/sensation
+
+http://carl-gustav-jung.blogspot.com/2011/01/fonctions-psychologiques-approches.html
+http://carl-gustav-jung.blogspot.com/2011/01/fonctions-psychologiques-2.html
+http://carl-gustav-jung.blogspot.com/2011/02/fonctions-psychologiques-4-dynamique.html
+http://carl-gustav-jung.blogspot.com/2011/04/fonctions-psychologiques-6-la-fonction.html
+
+## Modele de Todd
+Liberte/autorite
+Egalite(relation)/Inegalite(individu)
+
+## modele traditions
+les 8 trigrammes chinois construit avec 3 axes
+http://sys.theme.free.fr/2_tradition.html
+
+Pour representer en 3 dimension dans l'espace
+https://www.youtube.com/watch?feature=player_detailpage&v=SogolRUl5A8#t=1572
+Tableau des 8 trigrammes Chinois, l'union des 6 points cardinaux
+Haut:yang - bas:ying
+gauche:yang - droite:ying
+devant:yang - arriere:ying

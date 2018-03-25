@@ -1,0 +1,95 @@
+#  AlphaGo et le fantasme de la machine qui surpasse le vivant
+
+Je fais parti des gens qui ont été sidéré par cette annonce,
+[la première défaite d'un professionel du Go contre une intelligence artificielle](http://www.lemonde.fr/pixels/article/2016/01/27/premiere-defaite-d-un-professionnel-du-go-contre-une-intelligence-artificielle_4854886_4408996.html)
+
+
+J’apprécie la prouesse technique, car je suis jouer de Go. Je ne suis pas un bon jouer amateur en Dan au mieux j'ai pu monter à 3 Kyu sur KGS (un des principal serveur du jeu). Mais j'ai eu suffissament d'année de pratique pour comprendre et apprécier ce jeu et la beauté de certaines parties (voir coup),  les analyses et commentaires qui peuvent en être fait.
+ 
+De plus par mes études en informatique et mon métier, je comprends les principes de ce qui est réaliser par les algorithmes d'intelligence artificielle, ainsi que certaines évolution du deep learning. La non-plus, je ne suis pas un spécialiste, mais je continue a m’intéresser de prêt a ce qui concerne à "la représentation" (en informatique entre autre) qui est une des questions de toujours (le langage fut une des rares choses qui m'ont interesses dans mes etudes).
+
+Tout ca pour dire que cette annonce m'a fait l'effet d'un choc, une sidération. Et pas uniquement car j'ai eu l'occasion de voir Fan Hui joué ou de suivre certains des ces cours. Mais bien plus par le niveau franchis, il y a encore un an, les algorythmes étaient très loin du niveau des pro sur un jeu standard (sur un plateau 19x19 et sans handicap).
+
+##les parties et comment c'est possible
+
+Meme si le programme fait encore des erreurs, et Fan Hui semble bloque par l'enjeu (et la perte de sa premiere partie solide qui le pousse a jouer plus agressif voir des coups abussifs (overplay) et perdre de tres loin dans le combat car il se fait parfois punir par le moteur de Go. Il semble bien meilleur que Fan Hui, tres impressionnant car Fan Hui est tout de meme 2 Dan pro. Tres impressionant surtout car il semble agir comme un humain, semble suivre les meme raisonnements.
+
+https://gogameguru.com/alpha-go-fan-hui/
+
+Contrairement a ce que dis la presse a gros titre, leur algo n'est pas que du deep learning qui serait le secret de cette victoire.
+
+Sans rentrer dans l'historique du domaine de l'inteligence artificielle. La video du fondataeur de deepMind vaut le detour pour comprendre ce qui est nouveau.
+
+Avant l'intelligence artificielle classique traite du symbole, pour elle tout est du langage (ce qui est tres Lacanien, si on interprete mal)...et le probleme qu'ils reonnaissance c'est donc l'incapacite de se connecter au reel. Les langages artificiels, et les adeptes du "tout est langage", n'ont jamais abouti (et ont retarde, voir pris en otage le web semantique pendant des annees, a mon sens pour pasgrand chose). Derriere le langage est la croyance de tout pouvoir representer par une formule mathematiques
+
+https://www.youtube.com/watch?v=08Cl7ii6viY
+
+Les reseaux de neurones c'est pour apprendre par l'experience/par "les sens" (la vue, il traite les images sont des pixels, la vue de la machine) c'est a dire que la machine apprends en voyant  des milliers et des milliers de parties (sans les oublier, et une vitesse qu'aucun humain ne peut faire). Elle apprends par mimetisme...c'est donc le retour de la relation qui devient au centre. Et c'est effectivement cette approche, possible avec les evolutions technologiques (autour des big data) qui a fait faire une grand bon en avant.
+
+Mais ce qu'ils ont fait c'est un systeme hybride, avec un systeme de neurones (pour apprendre par l'experience, par "les sens"), mais couple avec une intelligence artificielle plus classique (qui resonne sur le symbole, le langage)....le couplage des deux et leur ambition est de pouvoir construire une connaissance conceptuelle des choses, en d'autre monde trouver le monde des idees.
+Pour que la machine puisse s'adapter et trouver toute seule la bonne "facon de penser" pour agir...
+Ce qui est tres impressionnant c'est que ces algos sont plus generique, c'est a dire qu'ils pourront s'adapter a tout plein de problemes...en ce sens deep blue conte kasparov ne pouvait faire que jouer au echec, la genericite de l'algo peut le rendre applicable a bien d'autres problemes.
+
+Ca a beaucoup progresse et tres vite, c'est tres impressionnant...et inquietant.
+
+J'avoue que je suis en train de lire des articles et la publication scientifique qu'ils ont faites pour comprendre un peu plus.
+https://storage.googleapis.com/deepmind-data/assets/papers/deepmind-mastering-go.pdf
+
+## l'analyse plus en detail
+
+J'ai donc regarde ces parties, remarque des erreurs de part et d'autres. Mais je n'ai pas le niveau pour bien voir ou le bas blesse, donc j'ai attendu des analyses de joueur pro meilleurs que Fan Hui, des 9 Dan pour essayer de comprendre un peu mieux. Il y a en deja eux 2 dans le premier jour. Et leurs constats se recoupent.
+
+https://gogameguru.com/go-commentary-deepmind-alphago-vs-fan-hui-game-5/
+
+Nouvelle revue du match de Han Hui contre AlphaGo par un 9 Dan pro
+Choque comme tous, de le voir jouer coe un humain 
+
+Faiblesses de #alphaGo (il y a 3 mois) - ne comprends pas le sente (l'initiative) ou l'aji, manque de creativite (trop dans le mimetisme)
+
+isiblement les pro sont tjrs confiant. "Lee Seedol est chanceux de pouvoir gagner facilement 1 millions" en mars 
+https://www.youtube.com/watch?v=NHRHUHW6HQE&feature=youtu.be&t=4664
+
+il sera interessant pour moi, de voir les progres de alphago dans les derniers mois, et on le verra face a Lee Seedol en Mars. 
+Il est certains qu'a present, une machine va gagner contre un humain, est-ce dans 3 mois ou pas...et a present, je ne ferais pas de pari...
+
+Mais la question est de savoir si une machine fait preuve de creativite ? ou qu'est ce que la creativite ?
+
+## La vision machiniste du vivant - une machine peut etre elle creatice ?
+
+Cela reveille de vieux fantasmes endormies, le fantasme des trans-humanistes plus ou moins deguises, en fait cela va dans la croyance
+
+http://www.pauljorion.com/blog/2016/01/29/singularite-une-amere-defaite/
+
+> Le go, c’était le dernier rempart : le nombre de combinaisons possibles est faramineux, du coup il faut prendre des décisions à partir d’une impression générale, la fameuse intuition, et nous pouvions nous dire pour nous rassurer : « Là, ils ne parviendront pas à nous avoir ! »
+> 
+> Hélas ! les murailles de Jéricho sont tombées : c’est fini !
+
+c'est allez un peu vite, l'analyse des parties montre que justement alphago manque d'intuitions, c'est un tres bon imitateurs a present des pros...mais il manque de ccreativite, d'intuitions sur les coups. 
+
+Can AlphaGo really feel it in its algorithms?  Fantasme/ideologie
+l'analyse des parties montre le manque d'intuition
+
+http://www.theguardian.com/commentisfree/2016/jan/31/google-alphago-deepmind-artificial-intelligence-intuititive
+
+Cela les experts du domaine ne sont pas dupes, et savent comme un joueur de Go pro en regardant la partie ou en est le moteur. Et meme chez deep mind, ils doivent connaitrent bien plus les limites de leur approches. Cela n'enleve rien au progres et au pas qu'ils ont fait franchir, ni au jalousie que cela peut reveiller.
+
+Go, Marvin Minsky, and the Chasm that AI Hasn’t Yet Crossed
+An expert in AI separates fact from hype in the wake of DeepMind’s victory over humans in the most challenging game of all
+https://medium.com/backchannel/has-deepmind-really-passed-go-adc85e256bec#.akqa3m8vg
+
+une machine peut-elle etre creatrice, faire part d'intuition ? c'est a dire intelligente ?
+Car il s'agit bien dont DeepMind s'est fixe comme objectifs "solve intelligence"...alors bien sur, on s'emballe vite, pour survendre.
+
+## la relation au centre de la croissance
+
+Que nous dis un pro du Go, c'est qu'a present c'st la collaboration bien plus que la competition apparente qui permet d'avancer dans la connaissance du jeu
+"Pour progresser il faut apprendre des autres."
+https://www.youtube.com/watch?v=NHRHUHW6HQE&feature=youtu.be&t=4526
+ 
+cela se verifie au Go, mais c partout pareil...j'ai pu l'observer, dans mes pratiques, en escalade, au taiji, ou au travail...etc...
+
+Pour apprendre/progresser, il faut collaborer...les pros du Go  etudient en groupe, c ca le secret...contrairement a la croyance dans le calcul comme mode de l'intelligence (du cerveau). 
+Elle est dans la relation, dans l'amour, "l'intelligence du coeur" (des tripes).
+L'intelligence n'est pas le calcul, le cerveau, qui n'est que le controle sur les consequences, mais la capacite de se mettre en accord avec le souffle qui nous traverse...
+
+Les machines pourrait apprendre des interactions de l'homme, peuvent-elle apprendre a devenir intelligente ? Il y a bien sur la possibilite de developper une dynamique d'affect, qui est le projet de Jorion, mais celui ci par du principe qu'il n'y a pas de souffle, que le vide est vide...etc...

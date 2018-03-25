@@ -1,0 +1,132 @@
+
+
+# L'epineuse question du langage
+
+"une carte n'est pas le territoire"
+
+Plusieurs ecoles qui ont leur apport et leurs limites
+1- "Tout est langage" comme source de tout sur du vide (d'Aristote, Lacan a Jorion), ecole qui oublie le corps (comme un cartesianisme "je pense donc je suis", tout n'est vie n'est que la pensee" (negation du centre)...oubli de Husserl...
+2- Wolfram: "tout est algorithme", tout est simple a la base et se  complexifie, lien avec la thermodynamique et theorie de l'ordre dans le chaos (reintroduit le centre)
+3 - Importance du corps et de la matiere "Leroy-Gourhan", langage lie a la main/au corps, ce que redecouvre Larkoff
+4- les mystiques enseignent ce qui ne peut etre dis, le non-nommable. Lien avec le "langage oublie" de Fromm
+
+# Le langage et le data management
+
+Les recherches sur le langage sont centrales et fondamentales en informatique (et plus largement sur l’humain, car « l’inconscient est structure comme un langage » comme dirait Lacan). Nos sujets qui touchent à la représentation et modélisation de l’information sont directement des « applications » de ce champ d’étude.
+
+En effet, la base théorique de l’informatique est en lien direct avec la linguistique (cf Chomsky http://en.wikipedia.org/wiki/Programming_language_theory) en plus des mathematiques (http://en.wikipedia.org/wiki/Lambda_calculus). Et les dernieres « trouvaillent » de la linguistique, lié a la robotique et IA (intelligence artificielle) permette d’éclairer sur les limites, voir le mur que l’informatique va devoir faire face (solutions big data ou pas).
+
+En linguistique, il y a eu effectivement des conflits virilent dans les annees 70’s http://en.wikipedia.org/wiki/Linguistics_Wars. D’un cote une theorie « standard », issue des travaux de Chomsky (dans sa casquette de linguiste, pas d’activitiste politique), qui est l’edifice theorique de l’informatique. Pour faire court et brutal, Chomsky croit en l’existence d’une « syntaxe generative », en gros il existerait dans nos genes une structure primaire pour la syntaxe universelle, et independante du sens (de la semantique), dont les langages ne serait que la generation
+
+“Chomsky claimed then — and still does, so far as I can tell — that syntax is independent of meaning, context, background knowledge, memory, cognitive processing, communicative intent, and every aspect of the body.”
+
+C’est une citation critique de Lakoff, auquelle evident Chomsky reponds qu’il n’a rien compris a sa theorie. Lakoff et d’autres en sont fonde une autre ecole de pensee, la linguistique cognitiviste. Pour eux, toute notre pensée est conditionnée par notre corps : elle est incarnée. Les chercheurs parlent d’ailleurs de “cognition incarnée” ou « embodied cognition ». En gros Lakoff et consort renverse la theorie « dans les nuages » de Chomsky, pour lui remettre la tete dans la terre et dire qu'il existe plutot une "semantique generative", un sens et que ce sens est lie au corps. 
+
+
+L’article qui suit decrit les avancees et experiences lies a la « semantique generative », a la fois aux IRM et avec des robots
+
+http://www.internetactu.net/2014/09/25/les-metaphores-aux-sources-de-la-pensee/
+
+Quelles sont les conséquences de ces travaux sur la recherche en intelligence artificielle ?
+
+Selon Chorost, pour Lakoff, aucun doute : cela tue toute tentative dans ce domaine…Chorost, dans l’article original, mentionne plusieurs points de vue et n’oublie pas de citer entre autres Rodney Brooks, qui affirme qu’on peut donner des corps aux ordinateurs à l’aide de la robotique
+
+On peut même aller plus loin. On fait souvent l’erreur de demander si “les ordinateurs arriveront un jour ou l’autre à l’intelligence”. Ce qui en soi est peut-être une mauvaise question. Plutôt que de considérer les ordinateurs comme des entités en elles-mêmes, mieux vaudrait les voir comme des environnements dans lesquels des agents logiciels seraient en mesure se développer et évoluer. Peut-on dire que ceux-ci seront munis d’un “corps virtuel” ? Qu’est-ce au juste qu’un “corps” ? Si un agent logiciel possède l’équivalent fonctionnel d’un métabolisme, avec non seulement des capteurs et actionneurs mais également les fonctions nécessaires pour maintenir sa stabilité dans un environnement numérique, ne peut-on dire qu’il a un corps ?
+
+Pour reviser la "theorie des types" qui est la base de la theorie de modelisation de la connaissance "moderne"
+
+Bertrand #Russell (3/4) : De la vérité logique à la vérité mystique
+Langage, logique et mystique #ToutPourPlaire
+
+http://franceculture.fr/emission-les-nouveaux-chemins-de-la-connaissance-bertrand-russell-l%E2%80%99oeuvre-d%E2%80%99une-vie-34-de-la-verite
+
+Ou en plus court, la version des Shadoks, La logique des passoires !
+http://m.youtube.com/watch?v=TMt6TDQe4nQ
+
+# Sources
+
+Sent:29 September 2014 16:41
+To:'chugues@gmail.com'
+Subject:travaux linguistique et IA
+
+## metaphores aux sources de la pensee
+http://www.internetactu.net/2014/09/25/les-metaphores-aux-sources-de-la-pensee/
+
+Pour ce chercheur (Lakoff), en effet, toute notre pensée est conditionnée par notre corps : elle est incarnée. Les chercheurs parlent d’ailleurs de “cognition incarnée” ou embodied cognition.
+…
+Les travaux de Lakoff ne sont pas nouveaux. Mais l’article de Chorost nous parle d’une série d’expériences effectuées en IRM, destinées à tester cette pensée métaphorique.
+…
+Quelles sont les conséquences de ces travaux sur la recherche en intelligence artificielle ?
+
+Selon Chorost, pour Lakoff, aucun doute : cela tue toute tentative dans ce domaine…Chorost, dans l’article original, mentionne plusieurs points de vue et n’oublie pas de citer entre autres Rodney Brooks, qui affirme qu’on peut donner des corps aux ordinateurs à l’aide de la robotique
+
+On peut même aller plus loin. On fait souvent l’erreur de demander si “les ordinateurs arriveront un jour ou l’autre à l’intelligence”. Ce qui en soi est peut-être une mauvaise question. Plutôt que de considérer les ordinateurs comme des entités en elles-mêmes, mieux vaudrait les voir comme des environnements dans lesquels des agents logiciels seraient en mesure se développer et évoluer. Peut-on dire que ceux-ci seront munis d’un “corps virtuel” ? Qu’est-ce au juste qu’un “corps” ? Si un agent logiciel possède l’équivalent fonctionnel d’un métabolisme, avec non seulement des capteurs et actionneurs mais également les fonctions nécessaires pour maintenir sa stabilité dans un environnement numérique, ne peut-on dire qu’il a un corps ?
+
+## Comprendre l'homme un robot
+·        http://www.internetactu.net/2013/10/30/pour-comprendre-lhomme-rien-ne-vaut-un-robot/
+
+Nous avons besoin des mathématiques pour modéliser et faire des simulations que ce soit pour comprendre les galaxies, le climat ou la formation du vivant. Et si le développement cognitif d’un enfant est encore plus compliqué, alors nous avons aussi besoin de tenter de le simuler. Les simulations algorithmiques nous ont permis de comprendre les sociétés d’insectes. Et depuis une dizaine d’années, on utilise des robots pour tenter de comprendre le développement de l’enfant, parce que le corps et ses propriétés physiques jouent assurément un rôle fondamental dans le développement cognitif.
+…
+Même si la manière de construire ces robots s’inspire du vivant, le résultat en est souvent très éloigné. (ex marche robot pas naturelle). Pour trouver une manière plus naturelle de marcher, il faut se tourner vers les travaux de Tad McGeer, qui, il y a 20 ans, a construit une paire de jambes mécaniques sans moteur, en reproduisant la géométrie de la marche humaine (vidéo). “La structure totalement mécanique qu’il inventa génère une marche naturelle et stable et démontre que la marche s’auto-organise, c’est-à-dire qu’elle nait d’une interaction physique entre le corps et la gravité qui génère un ordre, un fonctionnement qui n’est pas programmé par les gènes.” Une expérience qui aurait été impossible à réaliser avec un animal… “Seul un robot a permis de comprendre la marche”, estime, enthousiaste Pierre-Yves Oudeyer.
+…
+Et surtout, il va permettre de confirmer des intuitions déjà avancées sur la marche et le déplacement, et montrer qu’en modifiant physiquement les robots, la structure de la langue qu’ils inventent est différente.
+…
+## linguistic war
+·        http://en.wikipedia.org/wiki/Linguistics_Wars
+
+Linguists such as Paul Postal, "Haj" Ross, George Lakoff, and James McCawley—self-dubbed the "four horsemen of the Apocalypse"—proposed an alternative theory of generative semantics, which essentially flipped Chomsky's theory on its head by focusing on semantics rather than grammar as the basis of Chomsky's concept of deep structure. While Chomsky and other generative grammarians argued that meaning was derived from the underlying order of the words being used, the generative semanticists cited the meaning of the words as giving rise to their order.
+
+## Larkof
+http://en.wikipedia.org/wiki/George_Lakoff 
+
+In the late 1960s, however, he joined with others to promote generative semantics[3] as ahttp://alireailleurs.tumblr.com/post/99895642335/identites-sociales-visibles-vs-identitesn alternative to Chomsky's generative syntax. In an interview he stated
+
+“Noam claimed then — and still does, so far as I can tell — that syntax is independent of meaning, context, background knowledge, memory, cognitive processing, communicative intent, and every aspect of the body.”
+
+…
+Lakoff's claim that Chomsky asserts independence between syntax and semantics has been rejected by Chomsky, who has given examples from within his work where he talks about the relationship between his semantics and syntax. Chomsky goes further and claims that Lakoff has "virtually no comprehension of the work he is discussing" (the work in question being Chomsky's)
+
+## Identités sociales visibles
+
+http://alireailleurs.tumblr.com/post/99895642335/identites-sociales-visibles-vs-identites
+Traditionnellement, les identités sociales (la race, le sexe, la classe, la sexualité…) se basent sur l’apparence extérieure des gens pour tirer des conclusions sur ce qu’ils sont à l’intérieur, que ce soit leur caractère, leur compétence ou leur qualité. L’identité sociale est définie dans une logique dualiste reposant sur l’interprétation et la représentation : l’aspect extérieur est un signifiant des qualités internes, autrement imperceptibles. 
+
+Si nous changeons la manière dont nous regardons change-t-on la façon dont la société est organisée ?
+
+Jacques Lusseyran - Le monde commence aujourd'hui - Extraits
+En savoir plus sur http://www.paperblog.fr/6312721/jacques-lusseyran-le-monde-commence-aujourd-hui-extraits/
+“Nous passons notre temps à préférer les idées que nous avons du monde au monde même. L’égoïsme n’est qu’une forme, et très particulière, de cette préférence totale. Ce qui m’empêche de lire dans la pensée d’autrui, ce n’est pas le silence d’autrui, ou même ses mensonges. C’est le bruit que je fais, dans ma tête, à son sujet. Avant d’aller à lui, je calcule, je pèse et contre-pèse les mérites et les torts, je tire déjà ma conclusion. Cette conclusion, je la crie dans mes propres oreilles. Je m’enivre d’elle, je m’endors déjà sur elle. Comment pourrais-je m’étonner ensuite de ne pas voir cet homme que j’ai enseveli dans mon vacarme? Je me suis dressé dans mon armure d’habitudes, dressé moi-même entre lui et moi. Je vais donc me tromper, être trompé, m’établir enfin dans ma solitude — une solitude hostile. Ah! L’artificielle misère, et comme il serait plus simple de faire attention! Comme cela nous rendrait heureux! ”
+
+##Le futur du web est semantique
+Et si le Futur du web etait issue des idees qui datent de 100 ans ?
+vers le web semantique (cad classifier)...on retombe sur l'histoire des categories d'Aristote.
+En opposition ce pose Wolfram qui pense que le coeur est programmatique, bien plus que sur le label (il touche quelque chose de juste, mais se trompe sur la suite)
+
+http://www.internetactu.net/2015/02/23/la-hierarchie-des-connaissances-est-elle-vraiment-depassee/
+
+Mais si “Le Futur du web a 100 ans”, c’est parce que, selon Wright, certaines des idées de ces pionniers, depuis longtemps oubliées et rejetées, pourraient bien, dans un avenir proche, se révéler des sources d’inspiration pour rénover la structure du réseau, qui connaît actuellement des problèmes de plus en plus handicapants.
+
+Un encyclopédisme universel va prendre deux directions différentes des deux côtés de l’Atlantique. Côté européen, il s’intéresse particulièrement à Paul Otlet....ce dernier cherchait à créer un “répertoire bibliographique universel”
+
+Wells envisage un système hiérarchique, contrôlé par des milliers de “bibliothécaires” qu’il nomme des “samouraïs”…ces systèmes sont bien sûr totalement opposés à la vision du web (actuelle). Ils impliquent l’existence d’un grand nombre de “curateurs” autrement dit des conservateurs et des bibliothécaires susceptibles de catégoriser chaque ouvrage à la bonne place – avec toutes les ambiguïtés et les désaccords que ça entraîne, évidemment.
+
+Mais aux Etats-Unis va naître une autre utopie, celle du web, “plat” et non hiérarchique telle que nous le connaissons
+
+Alors que le web peut être horizontal et ouvert tant dans l’imagination du public que dans la rhétorique du World Wide Web Consortium, un tel réseau plat est peut être tout autant utopique et inaccessible que la bibliographie universelle d’Otlet.”
+
+Et Wright de noter que le web sémantique pourrait bien constituer une alternative par sa création d’ontologies très proches, dans leur système de classification, des entreprises d’Otlet…
+
+Tout en reconnaissant que ce projet date de 2001, qu’il a été très largement critiqué…Pourtant, s’il est vrai que le web sémantique repose sur des ontologies ou des systèmes de classification hiérarchiques, rien n’empêche d’élaborer plusieurs ontologies concurrentes, aucune ne prétendant organiser le web à elle toute seule.
+
+A lire en complement:
+
+Wolfram se montre très critique vis-à-vis du “web sémantique” et de son système de catégories trop “médiévales” à son avis, sans pour autant se jeter dans les bras d’un système purement horizontal et anarchiste.
+
+## Wolfram alpha - une nouvelle sorte de science
+http://www.internetactu.net/2009/06/03/wolframalpha-une-nouvelle-sorte-de-science-pour-une-nouvelle-sorte-de-moteur-de-recherche/
+
+Qu’affirmait NKS ("New Kind of Science" comme on a affectueusement surnommé ce livre) ? En gros, deux propositions assez radicales. La première est que tout dans l’univers, y compris des catégories aussi fondamentales que l’espace et le temps, est le produit de programmes, d’algorithmes.
+
+Autrement dit, le postulat en cours depuis Newton selon lequel les mathématiques étaient le langage de choix pour comprendre l’univers était une mauvaise habitude. En, fait, le socle de la structure du monde, ce ne sont pas les maths, c’est l’informatique. Et comme disait en 2001 le physicien Rocky Kolb dans Wired, si le mathématicien Charles Babbage, précurseur de l’informatique, était venu avant Newton, toute notre vision du monde en aurait été changée.
+
+Mais l’autre postulat est encore plus radical. Non seulement l’ensemble de notre cosmos est le produit de programmes informatiques variés, mais ceux-ci sont de surcroit simples et courts. Ce qui caractérise ces petits programmes (dont les automates cellulaires comme le jeu de la vie sont l’exemple le plus typique ) c’est qu’au fur et à mesure de leurs itérations, ils produisent des résultats de plus en plus complexes. Certains de ces programmes possèdent en effet une telle propension à créer du nouveau qu’ils sont pour toujours imprévisibles. Pour Wolfram, le programme ultime, celui dont dérive tous les autres, le programme Dieu à l’origine de l’univers, pourrait être représenté sous la forme d’un code mathématique de quatre ou cinq lignes au maximum. En fait, ce pourrait être un algorithme assez trivial et ennuyeux, a même supposé Wolfram, apparemment difficile à distraire…

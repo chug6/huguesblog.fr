@@ -16,21 +16,15 @@ Pense bête et logbook
 - finaliser migration
 	- supprimer wordpress site et service ovh associé
 - date a changer en francais dans la toc et l'entete du post
-- tweet du post et share qui ne sont pas bons dans chaque post (ou supprimer les liens si pas possible)
-- apparition dans l'historique de "0001 Jan" (voir si c'est lié au draft?) 
+- tweet du post et share qui ne sont pas bons dans chaque post (ou supprimer les liens si pas possible) 
 - enlever mon usage (IP only?) de google analytics 
 
 
 - comment faire mise a jour de victor-hugo (pas cloner, mais du coup download and copie/paste contenu du site ? comment tester compatibilite theme, et contenu?)
 - regarder comment checker [update d'un submodule](https://blog.github.com/2016-02-01-working-with-submodules/) ne va pas faire foirer le site - comment tester une nouvelle version , avant mise en prod du nouveau theme?
 
-#### Done
-- trouver le probleme de la page 404 qui n'est pas appelle dans le theme => resolu sans action, une fois publié sur netlify
--  photo centrer, resizer => en fait photo semble s'adapter, responsive au format (mobile, pc size)
--  tester config disqus semble ok
 
-
-### References 
+## References 
 
 - [Disqus admin](https://disqus.com/admin/)
 
@@ -63,7 +57,7 @@ Pense bête et logbook
 		> hugo new posts/premier.md
 
 
-#### Pour aller plus loin
+### Pour aller plus loin
 
 - [Passez de Jekyll a Hugo](https://jamstatic.fr/2017/06/07/migration-de-jekyll-a-hugo/) contient plus d'explication sur la structure d'un site Hugo
 
@@ -110,6 +104,8 @@ suivi les instructions d'[install victor Hugo et Netlify](https://www.christophe
 - Migration fini, derniers tests
 	- tester google analytics - ok
 	- tester disqus - ok
+	- rajouter un dossier raw-material dans folder content et le faire ignorer par le build avec ignoreFiles dans config.toml
+
 
 
 

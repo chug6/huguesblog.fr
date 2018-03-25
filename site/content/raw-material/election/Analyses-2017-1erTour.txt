@@ -1,0 +1,159 @@
+
+# Une élection pour mieux comprendre un pays en mutation
+
+
+# Des cartes sur un territoire
+
+Au lendemain du premier tour de l'élection du président francaise, une multitude de carte sorte dans la presse pour comprendre ce qui se passe, car il se passe quelque chose de nouveau, les deux parties (droite LR, et gauche PS) qui structurent la vie politique Francaise sont en déroutent. 
+Quelque chose de nouveau serait en train d'émerger. Il nous faut le saisir, le comprendre, car ce qui échappe de notre contrôle, la nouveau fait toujours peur. Il nous faut comprendre, Qui vote quoi ? et pourquoi ?
+
+![](\2017-1erTour.png)
+
+Les sociologues sont temporairement sorties du placard, pour donner un peu plus de poids scientifiques, aux discours creux et idéologique des politiques et commentateurs de presse.
+
+Mais pas n'importe quelle idée sociologique sera mise en avant, on va retrouver toujours plutôt mise en avant une approche d'analyses socio-économique d'un territoire. Et le refus d'aller plus en profondeur, qui remettrait en cause des déterminants. 
+
+## Une carte n'est pas le territoire
+
+Par exemple, dès le début de l'émission le cadre de pensée est posé ["Macron, le Pen qui vote quoi ?"](https://www.franceculture.fr/emissions/du-grain-moudre/macron-le-pen-qui-vote-quoi)
+
+quelques extrait à 3 minutes du début :
+"- Je travaille sur des donnees individuelles, differentes des donnees agreges qui sont les resultats reels du vote. Sur ungros echantillon (9000 personnes) ave questionnaires qualitatifsn(qui ils sont mondes social, les motivations du vote).  
+- Une approche qualitative qu'il faut croiser avec une approche plus quantitative (approche geographique)? 
+- Non, "on est dans une societe d'individus et donc personnellement je ne crois pas du tout au paradigme structuraliste, qui crerait des causalite mecanique entre l'appartenance a un groupe socio-economique et le vote, mais cela peut etre interessant quand meme ne serait ce que pour se donner des idees, d'utiliser des donnees de masse (comme la localistion)" 
+
+En dehors d'aspect démographque géographique, toute autre méthode d'analyse autre qu'economique...car une approche structuraliste (sur des grands nombre, en fait l'ensemble de la population concernée et pas un echantillon) entrainenrai une representation de "causalité mecanique" de la vie sociale. 
+
+Donc clairement, ce chercheur avoue qu'il prend une carte pour un territoire. Il est vrai que le péril de la fascination peut faire prendre "une carte pour le territoire" est bien plus grand qu'il n'y parait, meme/surtout pour des amateurs. Et ces chercheurs qui ont une approche structuraliste, sont pris pour des déterministes fous.
+
+Je prends pour exemple Emmanuel Todd et ses modèles que je connais bien (disons structuraliste meme si il ne le sont pas strictement, j'y reviendrais) , et qui doit faire face à la réaction très diverses.
+
+Mais lorsque Todd se sert de ces même modèle d'analyse pour comprendre un événement ponctuel, à chaud, qui remet en cause les raisons d'agir les individus, comme avec son livre "Qui est Charlie ?" 
+
+La polémique est violente et il se fait incendier et [il "est accusé d’être une sorte de déterministe dément, qui dit que les gens sont mus par des forces invisibles, qui ne savent pas ce qu'ils font. alors qu'il ne dit pas du tout que la liberté humaine n'existe pas, la liberté humaine existe mais les hommes ne sont pas complètement libre. Si on simplifier énormément, c'est un modèle qui donne une moitié de poids a la détermination et une moitié pour la liberté humaine".](https://youtu.be/19fdxdQjG38?t=2217)
+
+Alors que lui-même rappelle régulièrement comme dans l'extrait précédent, qu'il ne prends son modèle d'analyse comme déterministe, et qu'il sait bien qu'il ne faut pas prendre la carte pour le territoire. 
+La carte est un moyen d'interprétation qui peut être puissant, et mais ne parle pas du vécu d'un individuel, mais de ce qui anime une société dans son ensemble. 
+
+IL est extremement clair avec ça. Mais il est aussi très clair qu'un certains nombres de chercheurs ne le sont pas, et entendent que ces modèles de type structuralistes sont necessairement mecanique et deterministe. Ils le sont si utilisé par des gens comme eux qui confondent carte et territoire. Et ils le sont car ces approches contredisent l'indivudalisme methodologique qui les animent, les individus seraient libre de leur choix, ils serait libre et responsable de faire ce qu'ils veulent faire, veulent être. 
+Et tout personne qui rappelle que l'individu est aussi conditionné et que la prise de decision n'est pas propre a l'individu (son ego en fait). Toute remise en cause de cela est un cruel rappel du reel...et de leur impuissance, cela est inaudible.
+
+## la pensée materialiste et L'economie en pilote - l'individulisme economique
+
+Avec l'ideologie materialiste du XIXe, l'economie est le moteur du progrés social, pour le bien être de l'humanité. Le capital est donc le nouveau roi, puisqu'en tant que moteur de l'economie, il est le moteur du progrés.
+
+Et pour l'appuyer ce mouvement, l'analyse socio-economique s'est imposé comme LE facteur premieur pour comprendre l'evolution de nos societes (cf le Marxisme (a ne pas confondre avec la pensée de Marx) et les liberaux, qui sont les deux faces de la meme piece). Cette ideologie considère que ce sont les conditions economique (et rapport de force politique sous-jacent) qui structure la societe et la font evoluer. Ce qui fait qu'aujourd'hui les conseillers politiques analysent la situation d'un pays avec son PIB, sa dette, son commerce exterieur, chomage, etc...tous les indicateurs economiques qui sont cense representer la realite du pays, et permettrait de "gouverner "par les nombres" (donc de prendre la carte pour le territoire).
+https://www.letemps.ch/culture/2016/02/12/dictature-chiffres
+
+### les modèles hors-sols, et la vie objet
+
+Ce mode de governance des individus par le nombre, au dela des etats etant en phase de generalisation (big data, quantified self), ideologie porte par la silicon valley faisant disparaitre l'indivudualisme au profit de remettre le pouvoir de decisions aux algorithme (cf livres Sapiens).
+
+### le modele liberal, son but, et son echec
+
+la mondialisaiton qui est le projet liberal, qui est la volonte de creer un marche mondial des capitaux, et du travail. Le libre echange assure mecaniquement la montee des inegalites (reconnu meme par les manuels d'economie internationnale).
+Sur un marché les pressions salariales qui s'excercent dans un sens ou dans l'autre, l'abaissement des barrieres douanieres a l'echelle du monde va aboutir a l'unification des marches du travail a l'echelle mondiale. Et donc cela va aboutir a introduire dans chaque societe, le niveau d'inegalites qui existe a l'echelle mondiale (en clair on veut se mettre en concurrence avec le bengladesh). Cela entraine une compression sur les salaires (diminuer salaires, ouvriers, etc), qui entraine le vieux probleme du capitalisme qui est l'insuffisance de la demande (phase staflation de Roddier).
+
+L'inegalite, et l'individualisme est donc la valeur dominante qui doit predominer pour que cela soit acceptable. C'est une valeur qui domine la famille nucléaire inegalitaire et autoritaire (souche), mais au vue de la planete cela est beaucoup moins acceptable par les structures autoritaires qui ont un fond egalitaires, comme le monde musulman, la russie, ou la Chine.  Demographiquement, si la societe et l'anthropologique des individus n'integrent pas cette aspect inegalitaire.
+
+La revolution Arabe, la Russie, la Chine et le monde multi-polaires signes la fin de la volonté d'empire de la societe liberale europeene...qui se trouve en minorite dans le monde. 
+
+https://www.youtube.com/watch?v=_-HmdpW7vaQ
+
+Ce qui ne veut pas dire que le monde ne deviendra pas democratique, au contraire, mais pas la forme de democratie que nous connaissons. 
+
+## la pensée religieuse et le primat de l'education - le pensee structuraliste
+
+Durrkeim=le religieux qui fonde la  matrice de la vie sociale. Todd pense l'education comme 1er facteur de l'histoire comme axe de developpement, et l'economique en 2eme. L'economie instrumentalise le developpement culturel.
+Il pense cela pas par theorie, mais par pragmatisme (lie a sa formation anglo-saxone, Vs un francais/allemand) et par l'observations et l'analyse de l'histoire des societes sur la longue durée, appuyer par des chiffres sur la demographique et anthropologique de grande echelle pour valider ou invalider son modele. Il n'est pas pollué par un modele de pensee, car vouloir appliquer un dogme (le liberalisme), et sait tres bien qu'il y a des periodes , des cycles ou les libre-echange est favorable, et ou le protectionnisme est favorable...
+
+Ce qui est peu insupportable pour un Marxiste, ou un liberal qui est paradoxalement un idealisme, place l'idee (en fait la pensée, le concept) comme premier. Enfin le concept, le produit du mental, ce qui deviendra comme la religion dogmatique. Pour lui tout est materiel, objet sans vie, et le projet des lumieres etant de devenir mettre et possesseur de la nature, est le symbole de cela. L'humain doit controler sa nature, et la nature pour qu'elle suive ses idees (en fait son mental). Il se doit donc de definir un dogme de comment les choses marchent, et doivent marcher eternellement, il est guidé par des principes comme pouvait l'etre la religion passe avec ses principes moraux (car cela releve de la meme erreur, prendre la carte pour le territoire).
+
+D'autres courant de pensées on a la meme periode vu le jour, des ecoles de pensee transdisplinaires (histoire humaine longue, histoire des techniques, sociologie, anthropologie, demographie, politique/economie) qui se sont enrichi avec la sociologie/demogrpahies de methodes/outils scientifique plus robuste. Ils ne se basent pas que sur l'economie pour comprendre le monde. En ne gardant pas q'une carte d'analyse, l'avantage est de ne moins prendre une carte pour le territoire.
+
+L'ecole des anales est un de ces courant de pensees, dont Todd est un des heritiers
+https://fr.wikipedia.org/wiki/%C3%89cole_des_Annales
+https://fr.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Le_Play
+
+L'hypothese des Anales est que plus profond que l'economie, l'anthropologie (la structure familliale)+demographie est un bien meilleur moyen pour comprendre l'evolution de la civilisation, et est un bien meilleur moyen pour comprendre l'histoire sur les longues durees.
+
+
+## le cas Emmanuel Todd
+
+Sa couverture médiatique peut être tout à fait bienveillante, quand il présente à froid, son analyse des structures familiales de l'Eurasie sur plusieurs siècle, ou lorsqu'en collaboration avec Le Bras il publie le "mystère français". Car les individus ne se sentent pas remis en cause, il peut y avoir accord ou désaccord, mais les actes des individus ne sont pas remis en cause, pour cela représente un jeu théorique stimulant
+
+Pour aller dans les details, en attendant des article pour résumer son modèle, voir l'histoire de ces travaux, sur l’évolution des structures familiales https://www.youtube.com/watch?v=ky-GP7GgW_4
+
+Todo re-ecouter https://www.youtube.com/watch?v=B16Ru1URfCc
+
+son parcours/formation: https://youtu.be/_-HmdpW7vaQ?t=6385
+Nulle part en terme d'ecole, forme a la recherche en angleterre (empiriste de tradition britannique, ne parle pas de l'homme avec un grand H, mais 77% des hommes de x), l'histoire, demographie historique ("variable chaude" familliale, anthropologique, demographique proche de la vie des gens) et pas du tout "variable froide" (variable economique, qui passe a travers, indicateurs de prix, variable synthetique hors sols), methodologie proche de la sicence (mettre en correlation des variables, famille, systeme politique, faire des modeles simplifiés).
+Manque: pensee ecologique, input et output de l'energie (il est un peu hors-sol).
+
+## Le retour de refoulé
+
+L'interêt de Todd est que ces modèle anthropologique et ces cartes ne sont pas sur des choses exterieures, mais plus sur l'inconscient.
+La plupart de gens qui ont été manifesté ont l'impression de savoir pourquoi ils ont été pris par cet élan, pour défendre la liberté d'expression, etc...et les memes personnes ne se reconnaissent pas dans le portrait qu'il trace. Car il ne parle pas des valeurs conscientes mais inconsciente, alors comme le refus du refoulé, celui qui va entendre ce qu'il ne veut pas entendre sur lui, il va se mettre en colère contre le messager pour ne pas voir ce que cela reveille en lui. Alors que celui qui se sentirait pas concerné n'aurai pas un affect aussi hostile, et soit serait indiferrent, soit essaierai de parler de voir ce qui cloche dans sa demonstration...ceux qui fut tres peu fait par les commentateurs
+
+
+# Analyse de l'élection
+
+En 2007 la droite de Sarkozy a fait faire un virage a l'extreme droite au Republicains
+http://www.lemonde.fr/politique/article/2013/03/23/la-marge-de-progression-du-fn-est-limitee_1853214_823448.html
+
+
+Version courte Macron c'est le vote des "catholiques zombies" de l'ex "famille souche" qui a vote "oui" en 2005 sur L'Europe, voté Hollande, et sur-representé dans les manifs "je suis Charlie"
+
+![](carte-macron-lepen.jpg)
+
+
+Résultat de recherche d'images pour "mystere francais vote hollande"
+![](\2012-1erTour-PS.png) 
+![](\2012-1erTour-FN.png)
+
+
+[carte indus de 1958
+](https://russeurope.hypotheses.org/5937)
+
+> Cette carte indique bien quelles étaient les zones de développement de l’industrie durent les « trente glorieuses ». Il convient maintenant de la comparer à la carte des résultats du 1er tour de l’élection présidentielle de 2017. Et là, surprise, surprise, on constate le quasi-recoupement entre le vote en faveur de Mme Marine le Pen et la première carte.
+
+![](\emploi-indus-1958.jpg)
+
+
+En remontant plus loin encore, a la carte des[ structures familliales qui precedent la revolution industrielle](http://jmph.blog.lemonde.fr/2013/05/05/le-mystere-francais-herve-le-bras-emmanuel-todd-le-seuil/).
+
+
+![](\Les-structures-familiales-en-France.jpg)
+
+![](\Niveau-dintegration-en-France.jpg)
+
+On voit apparaitre une colleration tres claire entre le type de la strucutre familliale, et la modernité. La revolution industrielle se passe dans un territoire particulier (la famille nucleaire). La ou la revolution indsutrielle se passe dans la structure autoritaire.
+
+L'intuition initiale et l'hypothese de Todd dans son travail de recherche, et qu'au dela des beaux discours, ce n'est pas tant la philosophie, ce que l'on pense mais la structure familliale qui conditionne le choix de l'etat. Plus surprenant pour les chercheurs, dans le mystere francais qui pensait voir se dissoudre ces conditionnements anthropologique, c'est de le voir contiuner a exister, et ete influent, d'ou leur idee de "memoire des lieux" (qui est plus lie au desir mimetique d'un gruope social local).
+
+Cela contredit le modele liberal qui voudrait s'imposer partout dans le monde, et qui pense que la domination (soft power et militaire) peut arriver a s'imposer. Cet en partie vrai les structure familliale evolue dans le passe par le poids de l'influence.
+
+## vote Macron
+
+Pour Macron on voit que c'est le vote qui a vote "oui" en 2005 sur L'Europe, voté Hollande en 2012...Macron ce sont les "catholiques zombies" de l'ex "famille souche" de l'ex PS (sud-ouest, bretagne)...avec la disparation des zones non-souche (famille egalitaire du nord de la France) qu'avait encore pu conserver Hollande.
+Pour memoire les valeurs de la famille souche ce sont l'inegalites (les humains ne sont pas egaux, il y a un fils/fille heritier, les autres sont inferieurs), et l'autorité (autorite du pere). Ce qui se traduit dans la modernité (post crise de transition demographique, et industrialisation) par des etats sociaux-democrates (autorite est transfere a l'etat/organes centrals Europeen, respect des regles), l'archetype etant l'Allemagne (pays tres homogene anthropologiquement).
+
+pour Macron on voit a travers son "projet" les traits de la famille souche (je fais vite quitte a ne pas etre comprehensible)
+- inegalite: refus de taxer les plus riches (refus de re-equilibrer la creation de richesses), austerite (continue a etendre aux classes moyennes la perte du pouvoir d'achat par compression interieure des salaire/uberisation de la societe) => indifference aux souffrances "des petits/moyen" seul les heritiers comptent
+- autorite: je cite de memoire "j'ai une vision verticale du pouvoir" (va governer par ordonnance), politique TINA (pas de dialogue, refus du politique et governance par l'autorite des experts economique (l'archetype de la societe souche), qui place son autorite dans les technocrates/experts (l'etat/governance Europeene)
+- pour le fun/troller sur l'aspect catho refoulé on peut voir aussi la posture tres christique, bras en croix dans la video "c'est mon projet", et la posture de sauveur (crise du politique, depasse droite/gauche, front republicain face au extreme, etc...)
+
+Evidement, je ne dis pas que tout ceux qui votent pour Macron sont comme ca...c'est pas mon propos..
+
+# Le coup d'etat: l'oligarchie
+
+Au dela des analyses des individus, que Macron serait le remplacant de Hollande. C'est une evidence quand on voit son electorat 
+http://consciencesansobjet.blogspot.fr/2017/04/2017-le-coup-detat.html
+
+Mais un electorat qui s'est radicalisé, conditioné par son penchant autoritaire et inegalitaire, et qui est pret a continuer pour aller plus loin le mouvement olligarchique des diraigeants et representant de ces pays
+
+TODO: extrait de "qui est charlie"
+
+## est-ce inquietant ?
+
+Le regime politique ne dure que si il est soutenu par son peuple, si il corresponds aux valeurs de son pays. En France, cela semble que le debut, et parti pour durer sous couvert de l'enemi "populiste"

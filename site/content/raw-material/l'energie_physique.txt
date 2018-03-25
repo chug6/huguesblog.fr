@@ -1,0 +1,36 @@
+# L'energie, vu par la physique
+
+https://www.youtube.com/watch?v=bFoSmr8TISg
+Etienne Klein sur l'Energie
+en preparation d'un debat, rappelle deja les bases pour discuter sur ce sujet. 
+
+- Aujourd'hui les sources d'energies sont a 80% fossiles (1/3 petrole, 1/3 gaz, 1/3 biomasse (bois)), sur les 20% restant ~5% nucleaire, 6% hydrohelectriques, et moins de 1% renouvellable.
+- Aujourd'hui on stocke massivement dans les reseres produites dans la nature qui n'existeront plus une fois consomme
+- Cela engendre un probleme de degagement de CO2 et de changement climatique
+- augmentation tres importante depuis 1 siecles, et qui va perdurer avec la population mondiale qui augmente
+- l'ensemble de la population ne peut pas vivre comme un occidental  (seul certains le pourront, d'autres devront faire sens), il y a aujourd'hui 1,3 milliards de personnes qui n'ont pas acces a l'electricite
+- acceder a l'energie a un impact direct sur la sante, l'education, etc....plus tard, il rappellera justement que l'on a pu arreter l'esclavage car on n'a justement pu obtenir une meilleure source d'energie que l'homme esclave
+
+Dans le langage courant, il y a de nombreuses confusion sur l'emploi du terme (et du coup les croyances induites), entre Energie, Puissance, et force...debat qui fut long en science aussi pour clarifier la situation. Definition de l'energie et les contraintes sur elle.
+
+Energie vient du Grec "Energia" (mot ancien, qui n'a pas toujours fait partie de la sience, il n'apparait qu'il y a 3 siecle). Aristote: "passage de ce qui est puissance (potentialite) a ce qui est en acte (action)". en langage moderne, jauge ce qui a "creer du mouvement", de changer l'etat de la matiere...s'exprime en Joule. 
+Le langage courant est problematique, le mot energie est utilise pour parler de la force, de la puissance, de la vigueur, la volonte, etc...
+Il y a conservation de l'energie (loi thermodynamique), l'energie d'un systeme isole demeure constante. Produire de l'energie ou en detruire est donc impossible. On ne fait que changer la forme d'un systeme a un autre. encore un fois, probleme du langage courant qui parle d'energie renouvelable comme si l'on pouvait la creer, ou la renouveller. 
+
+La Puissance est en fait le debit de l'energie (exprime en Watt). !un syteme peut produire le meme effet avec plus ou moins de temps suivant la puissance degager. La puissance = effort x flux 
+
+La force action mecanique capable d'imposer une acceleration 
+
+Il n'y a donc que 2 operations possibles:
+- changer la forme d'energie
+- transformer l'energie d'un systeme a un autre
+
+Changer la forme d'energie
+- L'entropie mesure la capacite d'un systeme physique a changer. Plus l'entropie est grande, moins le systeme a vocation a changer (tends vers l'equilibre entropique des systemes fermes). Les systems physiques ont tendances a augmenter leur entropie (cad tendre a se figer, a mourrir alors? si on croit au systeme ferme).
+- L'entropie permet de mesurer la qualite de l'energie: bonne qualite= entropie faible, systeme ordonne...vers entropie forte, systeme desordonnes...
+- ex: une chute d'eau est une bonne entropie, systeme ordonne par la gravitation....la transformer en chaleur diminue sa qualite
+
+Transformer l'energie d'un systema un autre, ne peut se faire qu'en suivant les interactions elementaire de la physique http://fr.wikipedia.org/wiki/Interaction_%C3%A9l%C3%A9mentaire
+- nucleaire forte ou faible
+- interaciton electromagnetique
+- gravitationnelle
