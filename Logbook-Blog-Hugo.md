@@ -14,8 +14,7 @@ Pense bête et logbook
 ## Todo List
 
 - finaliser migration
-	- changer le [nom de domaine](https://www.netlify.com/docs/custom-domains/)
-	- changer baseurl dans config
+	- 
 	- supprimer wordpress site et service ovh associé
 	- tester google-analytics
 	- tester disqus
@@ -106,7 +105,8 @@ suivi les instructions d'[install victor Hugo et Netlify](https://www.christophe
 	- au final, fait download manuel du theme et rajouter dans le dossier theme a la main, avant de le rajouter au repo => netlify passe (envoyer issue a l'auteur)
 - ouverture d'un compte [google analytics](https://analytics.google.com) sur le site huguesblog.fr
 - ouverture d'un compte disques avec compte google pour website name: huguesblog.disqus le site: https://huguesblog.netlify.com/
-- configuration des noms de [domaines de ovh vers netlify](https://www.netlify.com/docs/custom-domains/#dns-configuration) 
+- configuration des noms de [domaines de ovh vers netlify](https://www.netlify.com/docs/custom-domains/#dns-configuration)
+	- changer baseurl dans config.toml
 
 
 
