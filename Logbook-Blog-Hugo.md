@@ -1,7 +1,7 @@
 ---
 title: "logbook du blog sous Hugo"
 date: 2018-03-18
-lastmod: 2018-03-12
+lastmod: 2018-03-25
 draft: true
 hidden: true
 
