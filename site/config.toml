@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "http://huguesblog.fr"
+baseurl = "/"
 languageCode = "fr"
 title = "Hugues Blog"
 theme = "hugo-theme-cactus-plus-master"
