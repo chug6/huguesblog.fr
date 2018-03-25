@@ -1,3 +1,11 @@
+---
+title: "part invisible"
+date: 2018-03-18
+draft: true
+hidden: true
+
+---
+
 # La négation de la part invisible
 
 ## le dualisme

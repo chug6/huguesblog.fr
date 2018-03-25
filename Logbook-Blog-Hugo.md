@@ -11,15 +11,15 @@ hidden: true
 
 Pense bête et logbook
 
-## Todo List
+## Todo
 
 - finaliser migration
-	- 
 	- supprimer wordpress site et service ovh associé
-	- tester google-analytics
-	- tester disqus
 - date a changer en francais dans la toc et l'entete du post
-- tweet du post et share qui ne sont pas bons dans chaque post
+- tweet du post et share qui ne sont pas bons dans chaque post (ou supprimer les liens si pas possible)
+- apparition dans l'historique de "0001 Jan" (voir si c'est lié au draft?) 
+- enlever mon usage (IP only?) de google analytics 
+
 
 - comment faire mise a jour de victor-hugo (pas cloner, mais du coup download and copie/paste contenu du site ? comment tester compatibilite theme, et contenu?)
 - regarder comment checker [update d'un submodule](https://blog.github.com/2016-02-01-working-with-submodules/) ne va pas faire foirer le site - comment tester une nouvelle version , avant mise en prod du nouveau theme?
@@ -106,7 +106,10 @@ suivi les instructions d'[install victor Hugo et Netlify](https://www.christophe
 - ouverture d'un compte [google analytics](https://analytics.google.com) sur le site huguesblog.fr
 - ouverture d'un compte disques avec compte google pour website name: huguesblog.disqus le site: https://huguesblog.netlify.com/
 - configuration des noms de [domaines de ovh vers netlify](https://www.netlify.com/docs/custom-domains/#dns-configuration)
-	- changer baseurl dans config.toml
+	- changer baseurl dans config.toml, au final le laisser a "/" et pas a url du site car sinon perte des feuilles de styles
+- Migration fini, derniers tests
+	- tester google analytics - ok
+	- tester disqus - ok
 
 
 
