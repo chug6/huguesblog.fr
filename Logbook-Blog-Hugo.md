@@ -13,14 +13,14 @@ Pense bête et logbook
 
 ## Todo List
 
-### config site
+- finaliser migration
+	- changer le [nom de domaine](https://www.netlify.com/docs/custom-domains/)
+	- changer baseurl dans config
+	- supprimer wordpress site et service ovh associé
+	- tester google-analytics
+	- tester disqus
 - date a changer en francais dans la toc et l'entete du post
 - tweet du post et share qui ne sont pas bons dans chaque post
-- une fois migration faites
-	- config changer baseurl dans config
-	- changer le [nom de domaine](https://www.netlify.com/docs/custom-domains/)
-- clean-up dans repo des readme etc
-- tester google-analytics
 
 - comment faire mise a jour de victor-hugo (pas cloner, mais du coup download and copie/paste contenu du site ? comment tester compatibilite theme, et contenu?)
 - regarder comment checker [update d'un submodule](https://blog.github.com/2016-02-01-working-with-submodules/) ne va pas faire foirer le site - comment tester une nouvelle version , avant mise en prod du nouveau theme?
@@ -105,8 +105,8 @@ suivi les instructions d'[install victor Hugo et Netlify](https://www.christophe
 	- probleme initial de production en raison du submodule du theme non gere (cf plus haut)
 	- au final, fait download manuel du theme et rajouter dans le dossier theme a la main, avant de le rajouter au repo => netlify passe (envoyer issue a l'auteur)
 - ouverture d'un compte [google analytics](https://analytics.google.com) sur le site huguesblog.fr
-- ouverture d'un compte disques avec compte google pour website name: huguesblog.disqus le site: https://laughing-swartz-3b2f6e.netlify.com/
-
+- ouverture d'un compte disques avec compte google pour website name: huguesblog.disqus le site: https://huguesblog.netlify.com/
+- configuration des noms de [domaines de ovh vers netlify](https://www.netlify.com/docs/custom-domains/#dns-configuration) 
 
 
 
