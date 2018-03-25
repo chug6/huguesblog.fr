@@ -1,7 +1,7 @@
 ---
 title: "logbook du blog sous Hugo"
 date: 2018-03-18
-lastmod: 2018-03-19
+lastmod: 2018-03-12
 draft: true
 hidden: true
 
@@ -16,7 +16,6 @@ Pense bête et logbook
 ### config site
 - date a changer en francais dans la toc et l'entete du post
 - tweet du post et share qui ne sont pas bons dans chaque post
-- dans post: comment faire lien avec post précédent et suivant (lie au theme?)
 - une fois migration faites
 	- config changer baseurl dans config
 	- changer le [nom de domaine](https://www.netlify.com/docs/custom-domains/)
@@ -32,23 +31,6 @@ Pense bête et logbook
 -  tester config disqus semble ok
 
 
-### Migration site
-
-#### Todo
-- post centre-substance
-- post corps-esprit
-- post regime1
-- post regime2
-- post mimetisme
-- post bafore (a ne pas transferer ?)
-- post mimetisme-fusion
-
-#### Done
-- a propos
-- post Intention
-- post Connaissance
-- post post retour-connaissance
-- 
 ### References 
 
 - [Disqus admin](https://disqus.com/admin/)
@@ -78,7 +60,7 @@ Pense bête et logbook
 		> npm run build
 	- To get a preview of posts or articles not yet published, run:
 		> npm run build-preview
-	- publish a new post
+	- publish a new post (with draft status in archetype template)
 		> hugo new posts/premier.md
 
 
